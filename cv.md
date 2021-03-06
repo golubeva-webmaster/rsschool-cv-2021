@@ -27,3 +27,16 @@ My aim is to become a specialist in **Front-End Development**
 ### Example of code
 You can see examples on [my repository](https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/README.md)
 
+### Work experience
+
+### Education / training courses
+I have been working as a programmer since 2000. 
+1. Volgograd State University (Faculty of Mathematics and Informatics)
+2. [JavaScript on code-basics.com](https://ru.code-basics.com/languages/javascript)
+3. [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
+4. [JavaScript on developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+5. RS Scool (2020-2021)
+6. Video lessons **Javascript** on youtube
+
+### English language
+Proficiency level - **A2**
