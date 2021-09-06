@@ -27,7 +27,7 @@ My aim is to become a specialist in **Front-End Development**
 
 ### Example of code
 - [Portfolio](https://github.com/golubeva-webmaster/Portfolio)
-- You can see examples on [my repository](https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/README.md)
+- [Examples of code](https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/README.md)
 - [Codewars](https://www.codewars.com/users/golubeva-webmaster)
 
 ### Work experience
