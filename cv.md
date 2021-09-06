@@ -25,7 +25,9 @@ My aim is to become a specialist in **Front-End Development**
 5. ability to independently plan my working hours and follow this plan
 
 ### Example of code
+[Portfolio](https://github.com/golubeva-webmaster/Portfolio)
 You can see examples on [my repository](https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/README.md)
+[Codewars](https://www.codewars.com/users/golubeva-webmaster)
 
 ### Work experience
 
