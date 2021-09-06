@@ -35,9 +35,9 @@ My aim is to become a specialist in **Front-End Development**
 ### Education / training courses
 I have been working as a programmer since 2000. 
 1. Volgograd State University (Faculty of Mathematics and Informatics)
-2. [JavaScript on code-basics.com](https://ru.code-basics.com/languages/javascript)
-3. [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
-4. [JavaScript on developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+2. JavaScript on code-basics.com
+3. JavaScript on learn.javascript.ru
+4. JavaScript on developer.mozilla.org
 5. [RS Scool JavaScript Front-end 2021Q1 sertificate](https://app.rs.school/certificate/qm2m5pdc)
 6. Video lessons **Javascript** on youtube
 
