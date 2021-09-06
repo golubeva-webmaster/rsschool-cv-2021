@@ -35,8 +35,8 @@ I have been working as a programmer since 2000.
 2. [JavaScript on code-basics.com](https://ru.code-basics.com/languages/javascript)
 3. [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
 4. [JavaScript on developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-5. RS Scool (2020-2021)
+5. [RS Scool JavaScript Front-end 2021Q1] (https://app.rs.school/certificate/qm2m5pdc)
 6. Video lessons **Javascript** on youtube
 
 ### English language
-Proficiency level - **A2**
+Proficiency level - **B1**
