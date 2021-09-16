@@ -12,11 +12,12 @@ My aim is to become a specialist in **Front-End Development**
 
 ##### Hardskills
 - PHP
+- bitrix API
 - JavaScript
 - HTML
 - CSS/SASS
 - Git/github
-- Angular
+- BEM metodology
 
 ##### Softskills
 1. purposefulness
@@ -42,4 +43,4 @@ I have been working as a programmer since 2000.
 6. Video lessons **Javascript** on youtube
 
 ### English language
-Proficiency level - **B1**
+Proficiency level - **A2**
